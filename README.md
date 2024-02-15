@@ -1,6 +1,6 @@
 # Url Shortening Service
 
-##Requirements
+## Requirements
 ### Functional Requirements - 
 1. Given a URL, generate a shorter and unique short link.
 2. Store the original url mapped with short url.
